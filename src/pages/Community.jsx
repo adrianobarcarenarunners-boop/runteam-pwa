@@ -1,0 +1,1 @@
+console.log('Community.jsx placeholder');
